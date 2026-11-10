@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "status": "planned_requirements_extraction",
+  "sources": [
+    {
+      "repository": "alvarovillalbaa/lab",
+      "revision": "ba67e510bab2703b1042993744ce099490221c1f",
+      "path": "docs/specs/steps.md",
+      "start_line": 167,
+      "end_line": 200,
+      "sha256": "37a123e2ed8ef8d9cb3a997ea99d4d4638973d2a777411d6c4b8a805aa3d943e",
+      "archive_path": "docs/sources/original-tiny-model.md"
+    },
+    {
+      "repository": "alvarovillalbaa/lab",
+      "revision": "ba67e510bab2703b1042993744ce099490221c1f",
+      "path": "docs/specs/steps.md",
+      "start_line": 368,
+      "end_line": 408,
+      "sha256": "a55068a4406982f593b4c8b04912b79eb841e3f95cc93f2dd0fce8afdc39ef02",
+      "archive_path": "docs/sources/original-model-architectures.md"
+    },
+    {
+      "repository": "alvarovillalbaa/model-pretraining",
+      "revision": "83e0be783b4a15241b6eee285854365ab2a25f9d",
+      "path": "docs/specs/blueprint.md",
+      "sha256": "325a3a732e4ebae3bdcfcbbbd109b7b937fe44b51a1e2504939ab4f0421afdcc",
+      "archive_path": "docs/sources/pre-extraction-blueprint.md"
+    },
+    {
+      "repository": "alvarovillalbaa/model-pretraining",
+      "revision": "83e0be783b4a15241b6eee285854365ab2a25f9d",
+      "path": "docs/specs/backlog.md",
+      "sha256": "1d332df11fce1d7eddcf4e4b72e13841c698d72b12f7100009e57cc0510de305",
+      "archive_path": "docs/sources/pre-extraction-backlog.md"
+    }
+  ],
+  "policy": "Archived fragments are exact historical requirements. Active contracts are adapted; no recovered code or engine is implied."
+}
